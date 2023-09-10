@@ -1,0 +1,3035 @@
+{
+  "hours": [
+    {
+      "swellHeight": {
+        "icon": 2.12,
+        "noaa": 1.89,
+        "sg": 2.12
+      },
+      "time": "2023-09-05T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.66,
+        "noaa": 9.95,
+        "sg": 14.66
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.08,
+        "noaa": 1.9,
+        "sg": 2.08
+      },
+      "time": "2023-09-05T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.65,
+        "noaa": 9.51,
+        "sg": 14.65
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.05,
+        "noaa": 1.9,
+        "sg": 2.05
+      },
+      "time": "2023-09-05T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.64,
+        "noaa": 9.07,
+        "sg": 14.64
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.01,
+        "noaa": 1.91,
+        "sg": 2.01
+      },
+      "time": "2023-09-05T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.64,
+        "noaa": 8.63,
+        "sg": 14.64
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2,
+        "noaa": 1.73,
+        "sg": 2
+      },
+      "time": "2023-09-05T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.64,
+        "noaa": 8.92,
+        "sg": 14.64
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.99,
+        "noaa": 1.54,
+        "sg": 1.99
+      },
+      "time": "2023-09-05T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.63,
+        "noaa": 9.21,
+        "sg": 14.63
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.98,
+        "noaa": 1.36,
+        "sg": 1.98
+      },
+      "time": "2023-09-05T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.64,
+        "noaa": 9.5,
+        "sg": 14.64
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.97,
+        "noaa": 1.32,
+        "sg": 1.97
+      },
+      "time": "2023-09-05T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.65,
+        "noaa": 11.76,
+        "sg": 14.65
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.97,
+        "noaa": 1.29,
+        "sg": 1.97
+      },
+      "time": "2023-09-05T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.66,
+        "noaa": 14.02,
+        "sg": 14.66
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.96,
+        "noaa": 1.25,
+        "sg": 1.96
+      },
+      "time": "2023-09-05T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.68,
+        "noaa": 16.28,
+        "sg": 14.68
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2,
+        "noaa": 1.53,
+        "sg": 2
+      },
+      "time": "2023-09-05T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.7,
+        "noaa": 15.9,
+        "sg": 14.7
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.03,
+        "noaa": 1.8,
+        "sg": 2.03
+      },
+      "time": "2023-09-05T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.73,
+        "noaa": 15.51,
+        "sg": 14.73
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.07,
+        "noaa": 2.08,
+        "sg": 2.07
+      },
+      "time": "2023-09-05T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.74,
+        "noaa": 15.13,
+        "sg": 14.74
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.08,
+        "noaa": 1.42,
+        "sg": 2.08
+      },
+      "time": "2023-09-05T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.76,
+        "noaa": 14.69,
+        "sg": 14.76
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.08,
+        "noaa": 0.77,
+        "sg": 2.08
+      },
+      "time": "2023-09-05T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.76,
+        "noaa": 14.25,
+        "sg": 14.76
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.09,
+        "noaa": 0.11,
+        "sg": 2.09
+      },
+      "time": "2023-09-05T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.76,
+        "noaa": 13.81,
+        "sg": 14.76
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.08,
+        "noaa": 0.9,
+        "sg": 2.08
+      },
+      "time": "2023-09-05T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.75,
+        "noaa": 12.71,
+        "sg": 14.75
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.08,
+        "noaa": 1.68,
+        "sg": 2.08
+      },
+      "time": "2023-09-05T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.74,
+        "noaa": 11.61,
+        "sg": 14.74
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.07,
+        "noaa": 2.47,
+        "sg": 2.07
+      },
+      "time": "2023-09-05T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.73,
+        "noaa": 10.51,
+        "sg": 14.73
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.03,
+        "noaa": 2.41,
+        "sg": 2.03
+      },
+      "time": "2023-09-05T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.72,
+        "noaa": 10.22,
+        "sg": 14.72
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2,
+        "noaa": 2.34,
+        "sg": 2
+      },
+      "time": "2023-09-05T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.71,
+        "noaa": 9.93,
+        "sg": 14.71
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.96,
+        "noaa": 2.28,
+        "sg": 1.96
+      },
+      "time": "2023-09-05T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.71,
+        "noaa": 9.64,
+        "sg": 14.71
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.91,
+        "noaa": 2.21,
+        "sg": 1.91
+      },
+      "time": "2023-09-05T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.7,
+        "noaa": 9.46,
+        "sg": 14.7
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.85,
+        "noaa": 2.15,
+        "sg": 1.85
+      },
+      "time": "2023-09-05T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.7,
+        "noaa": 9.27,
+        "sg": 14.7
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.8,
+        "noaa": 2.08,
+        "sg": 1.8
+      },
+      "time": "2023-09-06T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.7,
+        "noaa": 9.08,
+        "sg": 14.7
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.76,
+        "noaa": 2.03,
+        "sg": 1.76
+      },
+      "time": "2023-09-06T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.69,
+        "noaa": 9,
+        "sg": 14.69
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.71,
+        "noaa": 1.99,
+        "sg": 1.71
+      },
+      "time": "2023-09-06T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.69,
+        "noaa": 8.91,
+        "sg": 14.69
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.67,
+        "noaa": 1.94,
+        "sg": 1.67
+      },
+      "time": "2023-09-06T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.69,
+        "noaa": 8.82,
+        "sg": 14.69
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.65,
+        "noaa": 1.95,
+        "sg": 1.65
+      },
+      "time": "2023-09-06T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.69,
+        "noaa": 9.49,
+        "sg": 14.69
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.63,
+        "noaa": 1.95,
+        "sg": 1.63
+      },
+      "time": "2023-09-06T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.68,
+        "noaa": 10.15,
+        "sg": 14.68
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.61,
+        "noaa": 1.96,
+        "sg": 1.61
+      },
+      "time": "2023-09-06T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.69,
+        "noaa": 10.82,
+        "sg": 14.69
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.62,
+        "noaa": 1.99,
+        "sg": 1.62
+      },
+      "time": "2023-09-06T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.69,
+        "noaa": 11.54,
+        "sg": 14.69
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.63,
+        "noaa": 2.02,
+        "sg": 1.63
+      },
+      "time": "2023-09-06T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.7,
+        "noaa": 12.26,
+        "sg": 14.7
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.64,
+        "noaa": 2.05,
+        "sg": 1.64
+      },
+      "time": "2023-09-06T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.72,
+        "noaa": 12.98,
+        "sg": 14.72
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.71,
+        "noaa": 2.03,
+        "sg": 1.71
+      },
+      "time": "2023-09-06T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.75,
+        "noaa": 13.72,
+        "sg": 14.75
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.79,
+        "noaa": 2.02,
+        "sg": 1.79
+      },
+      "time": "2023-09-06T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.79,
+        "noaa": 14.45,
+        "sg": 14.79
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.86,
+        "noaa": 2,
+        "sg": 1.86
+      },
+      "time": "2023-09-06T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.83,
+        "noaa": 15.19,
+        "sg": 14.83
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.92,
+        "noaa": 2.1,
+        "sg": 1.92
+      },
+      "time": "2023-09-06T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.86,
+        "noaa": 15.12,
+        "sg": 14.86
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.99,
+        "noaa": 2.19,
+        "sg": 1.99
+      },
+      "time": "2023-09-06T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 15.06,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.05,
+        "noaa": 2.29,
+        "sg": 2.05
+      },
+      "time": "2023-09-06T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 15,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.09,
+        "noaa": 2.35,
+        "sg": 2.09
+      },
+      "time": "2023-09-06T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 14,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.13,
+        "noaa": 2.42,
+        "sg": 2.13
+      },
+      "time": "2023-09-06T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.87,
+        "noaa": 13,
+        "sg": 14.87
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.17,
+        "noaa": 2.48,
+        "sg": 2.17
+      },
+      "time": "2023-09-06T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.86,
+        "noaa": 12.01,
+        "sg": 14.86
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.18,
+        "noaa": 2.54,
+        "sg": 2.18
+      },
+      "time": "2023-09-06T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.85,
+        "noaa": 11.73,
+        "sg": 14.85
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.18,
+        "noaa": 2.6,
+        "sg": 2.18
+      },
+      "time": "2023-09-06T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.84,
+        "noaa": 11.45,
+        "sg": 14.84
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.19,
+        "noaa": 2.66,
+        "sg": 2.19
+      },
+      "time": "2023-09-06T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.83,
+        "noaa": 11.17,
+        "sg": 14.83
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.21,
+        "noaa": 2.68,
+        "sg": 2.21
+      },
+      "time": "2023-09-06T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.81,
+        "noaa": 11.05,
+        "sg": 14.81
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.24,
+        "noaa": 2.7,
+        "sg": 2.24
+      },
+      "time": "2023-09-06T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.8,
+        "noaa": 10.94,
+        "sg": 14.8
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.26,
+        "noaa": 2.72,
+        "sg": 2.26
+      },
+      "time": "2023-09-07T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.79,
+        "noaa": 10.82,
+        "sg": 14.79
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.28,
+        "noaa": 2.7,
+        "sg": 2.28
+      },
+      "time": "2023-09-07T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.78,
+        "noaa": 10.74,
+        "sg": 14.78
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.31,
+        "noaa": 2.69,
+        "sg": 2.31
+      },
+      "time": "2023-09-07T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.77,
+        "noaa": 10.65,
+        "sg": 14.77
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.33,
+        "noaa": 2.67,
+        "sg": 2.33
+      },
+      "time": "2023-09-07T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.75,
+        "noaa": 10.57,
+        "sg": 14.75
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.36,
+        "noaa": 2.65,
+        "sg": 2.36
+      },
+      "time": "2023-09-07T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.74,
+        "noaa": 10.71,
+        "sg": 14.74
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.38,
+        "noaa": 2.62,
+        "sg": 2.38
+      },
+      "time": "2023-09-07T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.72,
+        "noaa": 10.86,
+        "sg": 14.72
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.41,
+        "noaa": 2.6,
+        "sg": 2.41
+      },
+      "time": "2023-09-07T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.73,
+        "noaa": 11,
+        "sg": 14.73
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.43,
+        "noaa": 2.58,
+        "sg": 2.43
+      },
+      "time": "2023-09-07T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.74,
+        "noaa": 13.8,
+        "sg": 14.74
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.45,
+        "noaa": 2.57,
+        "sg": 2.45
+      },
+      "time": "2023-09-07T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.76,
+        "noaa": 16.59,
+        "sg": 14.76
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.47,
+        "noaa": 2.55,
+        "sg": 2.47
+      },
+      "time": "2023-09-07T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.78,
+        "noaa": 19.38,
+        "sg": 14.78
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.51,
+        "noaa": 2.55,
+        "sg": 2.51
+      },
+      "time": "2023-09-07T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.82,
+        "noaa": 20.14,
+        "sg": 14.82
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.54,
+        "noaa": 2.55,
+        "sg": 2.54
+      },
+      "time": "2023-09-07T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.85,
+        "noaa": 20.9,
+        "sg": 14.85
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.58,
+        "noaa": 2.55,
+        "sg": 2.58
+      },
+      "time": "2023-09-07T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.87,
+        "noaa": 21.66,
+        "sg": 14.87
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.63,
+        "noaa": 2.55,
+        "sg": 2.63
+      },
+      "time": "2023-09-07T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 20.26,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.68,
+        "noaa": 2.56,
+        "sg": 2.68
+      },
+      "time": "2023-09-07T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.91,
+        "noaa": 18.87,
+        "sg": 14.91
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.73,
+        "noaa": 2.56,
+        "sg": 2.73
+      },
+      "time": "2023-09-07T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.91,
+        "noaa": 17.48,
+        "sg": 14.91
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.77,
+        "noaa": 2.57,
+        "sg": 2.77
+      },
+      "time": "2023-09-07T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 16.24,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.82,
+        "noaa": 2.58,
+        "sg": 2.82
+      },
+      "time": "2023-09-07T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.87,
+        "noaa": 15,
+        "sg": 14.87
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.86,
+        "noaa": 2.59,
+        "sg": 2.86
+      },
+      "time": "2023-09-07T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.86,
+        "noaa": 13.76,
+        "sg": 14.86
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.87,
+        "noaa": 2.62,
+        "sg": 2.87
+      },
+      "time": "2023-09-07T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.83,
+        "noaa": 13.4,
+        "sg": 14.83
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.89,
+        "noaa": 2.65,
+        "sg": 2.89
+      },
+      "time": "2023-09-07T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.82,
+        "noaa": 13.03,
+        "sg": 14.82
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.9,
+        "noaa": 2.68,
+        "sg": 2.9
+      },
+      "time": "2023-09-07T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.8,
+        "noaa": 12.66,
+        "sg": 14.8
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.91,
+        "noaa": 2.73,
+        "sg": 2.91
+      },
+      "time": "2023-09-07T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.79,
+        "noaa": 12.1,
+        "sg": 14.79
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.93,
+        "noaa": 2.77,
+        "sg": 2.93
+      },
+      "time": "2023-09-07T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.78,
+        "noaa": 11.54,
+        "sg": 14.78
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.94,
+        "noaa": 2.82,
+        "sg": 2.94
+      },
+      "time": "2023-09-08T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.78,
+        "noaa": 10.99,
+        "sg": 14.78
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.93,
+        "noaa": 2.86,
+        "sg": 2.93
+      },
+      "time": "2023-09-08T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.77,
+        "noaa": 10.71,
+        "sg": 14.77
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.93,
+        "noaa": 2.89,
+        "sg": 2.93
+      },
+      "time": "2023-09-08T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.77,
+        "noaa": 10.43,
+        "sg": 14.77
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.92,
+        "noaa": 2.93,
+        "sg": 2.92
+      },
+      "time": "2023-09-08T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.77,
+        "noaa": 10.15,
+        "sg": 14.77
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.9,
+        "noaa": 2.96,
+        "sg": 2.9
+      },
+      "time": "2023-09-08T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.77,
+        "noaa": 10.65,
+        "sg": 14.77
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.89,
+        "noaa": 2.98,
+        "sg": 2.89
+      },
+      "time": "2023-09-08T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.77,
+        "noaa": 11.16,
+        "sg": 14.77
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.87,
+        "noaa": 3.01,
+        "sg": 2.87
+      },
+      "time": "2023-09-08T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.81,
+        "noaa": 11.67,
+        "sg": 14.81
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.85,
+        "noaa": 3.04,
+        "sg": 2.85
+      },
+      "time": "2023-09-08T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.86,
+        "noaa": 14.6,
+        "sg": 14.86
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.83,
+        "noaa": 3.06,
+        "sg": 2.83
+      },
+      "time": "2023-09-08T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 17.52,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.81,
+        "noaa": 3.09,
+        "sg": 2.81
+      },
+      "time": "2023-09-08T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.93,
+        "noaa": 20.45,
+        "sg": 14.93
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.8,
+        "noaa": 3.1,
+        "sg": 2.8
+      },
+      "time": "2023-09-08T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.99,
+        "noaa": 21.1,
+        "sg": 14.99
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.78,
+        "noaa": 3.11,
+        "sg": 2.78
+      },
+      "time": "2023-09-08T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 21.75,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.77,
+        "noaa": 3.12,
+        "sg": 2.77
+      },
+      "time": "2023-09-08T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.08,
+        "noaa": 22.4,
+        "sg": 15.08
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.73,
+        "noaa": 3.12,
+        "sg": 2.73
+      },
+      "time": "2023-09-08T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 20.98,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.7,
+        "noaa": 3.11,
+        "sg": 2.7
+      },
+      "time": "2023-09-08T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 19.55,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.66,
+        "noaa": 3.11,
+        "sg": 2.66
+      },
+      "time": "2023-09-08T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 18.13,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.63,
+        "noaa": 3.08,
+        "sg": 2.63
+      },
+      "time": "2023-09-08T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 16.65,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.59,
+        "noaa": 3.06,
+        "sg": 2.59
+      },
+      "time": "2023-09-08T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.1,
+        "noaa": 15.17,
+        "sg": 15.1
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.56,
+        "noaa": 3.03,
+        "sg": 2.56
+      },
+      "time": "2023-09-08T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.08,
+        "noaa": 13.69,
+        "sg": 15.08
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.53,
+        "noaa": 3,
+        "sg": 2.53
+      },
+      "time": "2023-09-08T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.06,
+        "noaa": 13.27,
+        "sg": 15.06
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.49,
+        "noaa": 2.97,
+        "sg": 2.49
+      },
+      "time": "2023-09-08T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.03,
+        "noaa": 12.85,
+        "sg": 15.03
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.46,
+        "noaa": 2.94,
+        "sg": 2.46
+      },
+      "time": "2023-09-08T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.01,
+        "noaa": 12.43,
+        "sg": 15.01
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.44,
+        "noaa": 2.91,
+        "sg": 2.44
+      },
+      "time": "2023-09-08T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.99,
+        "noaa": 12.1,
+        "sg": 14.99
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.41,
+        "noaa": 2.89,
+        "sg": 2.41
+      },
+      "time": "2023-09-08T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.96,
+        "noaa": 11.77,
+        "sg": 14.96
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.39,
+        "noaa": 2.86,
+        "sg": 2.39
+      },
+      "time": "2023-09-09T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.94,
+        "noaa": 11.45,
+        "sg": 14.94
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.37,
+        "noaa": 2.83,
+        "sg": 2.37
+      },
+      "time": "2023-09-09T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.92,
+        "noaa": 11.27,
+        "sg": 14.92
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.35,
+        "noaa": 2.79,
+        "sg": 2.35
+      },
+      "time": "2023-09-09T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.9,
+        "noaa": 11.1,
+        "sg": 14.9
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.33,
+        "noaa": 2.76,
+        "sg": 2.33
+      },
+      "time": "2023-09-09T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 10.92,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.3,
+        "noaa": 2.73,
+        "sg": 2.3
+      },
+      "time": "2023-09-09T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.86,
+        "noaa": 11.19,
+        "sg": 14.86
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.28,
+        "noaa": 2.7,
+        "sg": 2.28
+      },
+      "time": "2023-09-09T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.84,
+        "noaa": 11.46,
+        "sg": 14.84
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.25,
+        "noaa": 2.67,
+        "sg": 2.25
+      },
+      "time": "2023-09-09T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.85,
+        "noaa": 11.73,
+        "sg": 14.85
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.23,
+        "noaa": 2.65,
+        "sg": 2.23
+      },
+      "time": "2023-09-09T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.86,
+        "noaa": 14.11,
+        "sg": 14.86
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.2,
+        "noaa": 2.64,
+        "sg": 2.2
+      },
+      "time": "2023-09-09T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 16.48,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.18,
+        "noaa": 2.62,
+        "sg": 2.18
+      },
+      "time": "2023-09-09T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.91,
+        "noaa": 18.85,
+        "sg": 14.91
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.16,
+        "noaa": 2.62,
+        "sg": 2.16
+      },
+      "time": "2023-09-09T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.95,
+        "noaa": 19.38,
+        "sg": 14.95
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.13,
+        "noaa": 2.63,
+        "sg": 2.13
+      },
+      "time": "2023-09-09T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.98,
+        "noaa": 19.91,
+        "sg": 14.98
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.11,
+        "noaa": 2.63,
+        "sg": 2.11
+      },
+      "time": "2023-09-09T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15,
+        "noaa": 20.44,
+        "sg": 15
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.06,
+        "noaa": 2.52,
+        "sg": 2.06
+      },
+      "time": "2023-09-09T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.01,
+        "noaa": 19.12,
+        "sg": 15.01
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.01,
+        "noaa": 2.42,
+        "sg": 2.01
+      },
+      "time": "2023-09-09T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.02,
+        "noaa": 17.79,
+        "sg": 15.02
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.96,
+        "noaa": 2.31,
+        "sg": 1.96
+      },
+      "time": "2023-09-09T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.03,
+        "noaa": 16.47,
+        "sg": 15.03
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.96,
+        "noaa": 2.23,
+        "sg": 1.96
+      },
+      "time": "2023-09-09T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 15.55,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.97,
+        "noaa": 2.15,
+        "sg": 1.97
+      },
+      "time": "2023-09-09T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 14.64,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.97,
+        "noaa": 2.07,
+        "sg": 1.97
+      },
+      "time": "2023-09-09T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 13.72,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.87,
+        "noaa": 2.15,
+        "sg": 1.87
+      },
+      "time": "2023-09-09T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 13,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.77,
+        "noaa": 2.23,
+        "sg": 1.77
+      },
+      "time": "2023-09-09T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 12.28,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 1.67,
+        "noaa": 2.31,
+        "sg": 1.67
+      },
+      "time": "2023-09-09T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 11.55,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.55,
+        "noaa": 2.49,
+        "sg": 2.55
+      },
+      "time": "2023-09-09T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 11.47,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.43,
+        "noaa": 2.67,
+        "sg": 3.43
+      },
+      "time": "2023-09-09T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 11.39,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.31,
+        "noaa": 2.85,
+        "sg": 4.31
+      },
+      "time": "2023-09-10T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 11.3,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.24,
+        "noaa": 2.45,
+        "sg": 4.24
+      },
+      "time": "2023-09-10T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 11.19,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.18,
+        "noaa": 2.05,
+        "sg": 4.18
+      },
+      "time": "2023-09-10T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 11.07,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.11,
+        "noaa": 1.65,
+        "sg": 4.11
+      },
+      "time": "2023-09-10T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 10.95,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.88,
+        "noaa": 2.08,
+        "sg": 3.88
+      },
+      "time": "2023-09-10T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 11.32,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.66,
+        "noaa": 2.51,
+        "sg": 3.66
+      },
+      "time": "2023-09-10T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 11.7,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.43,
+        "noaa": 2.94,
+        "sg": 3.43
+      },
+      "time": "2023-09-10T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 12.07,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.16,
+        "noaa": 2.31,
+        "sg": 3.16
+      },
+      "time": "2023-09-10T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.06,
+        "noaa": 13.67,
+        "sg": 15.06
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.89,
+        "noaa": 1.69,
+        "sg": 2.89
+      },
+      "time": "2023-09-10T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.07,
+        "noaa": 15.28,
+        "sg": 15.07
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.62,
+        "noaa": 1.06,
+        "sg": 2.62
+      },
+      "time": "2023-09-10T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.09,
+        "noaa": 16.89,
+        "sg": 15.09
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.5,
+        "noaa": 1.72,
+        "sg": 2.5
+      },
+      "time": "2023-09-10T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.1,
+        "noaa": 15.52,
+        "sg": 15.1
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.37,
+        "noaa": 2.38,
+        "sg": 2.37
+      },
+      "time": "2023-09-10T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 14.15,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.25,
+        "noaa": 3.04,
+        "sg": 2.25
+      },
+      "time": "2023-09-10T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.12,
+        "noaa": 12.79,
+        "sg": 15.12
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.36,
+        "noaa": 3.69,
+        "sg": 2.36
+      },
+      "time": "2023-09-10T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 12.19,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.48,
+        "noaa": 4.35,
+        "sg": 2.48
+      },
+      "time": "2023-09-10T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 11.59,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.59,
+        "noaa": 5,
+        "sg": 2.59
+      },
+      "time": "2023-09-10T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 10.99,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 2.95,
+        "noaa": 5.06,
+        "sg": 2.95
+      },
+      "time": "2023-09-10T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.14,
+        "noaa": 10.74,
+        "sg": 15.14
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.32,
+        "noaa": 5.12,
+        "sg": 3.32
+      },
+      "time": "2023-09-10T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.14,
+        "noaa": 10.5,
+        "sg": 15.14
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.68,
+        "noaa": 5.18,
+        "sg": 3.68
+      },
+      "time": "2023-09-10T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 10.25,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.49,
+        "noaa": 4.74,
+        "sg": 3.49
+      },
+      "time": "2023-09-10T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.13,
+        "noaa": 10.12,
+        "sg": 15.13
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.29,
+        "noaa": 4.3,
+        "sg": 3.29
+      },
+      "time": "2023-09-10T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.12,
+        "noaa": 9.99,
+        "sg": 15.12
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.1,
+        "noaa": 3.86,
+        "sg": 3.1
+      },
+      "time": "2023-09-10T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.12,
+        "noaa": 9.86,
+        "sg": 15.12
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.45,
+        "noaa": 3.87,
+        "sg": 3.45
+      },
+      "time": "2023-09-10T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 9.7,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 3.81,
+        "noaa": 3.89,
+        "sg": 3.81
+      },
+      "time": "2023-09-10T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.1,
+        "noaa": 9.55,
+        "sg": 15.1
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.16,
+        "noaa": 3.9,
+        "sg": 4.16
+      },
+      "time": "2023-09-11T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.1,
+        "noaa": 9.4,
+        "sg": 15.1
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.49,
+        "noaa": 3.92,
+        "sg": 4.49
+      },
+      "time": "2023-09-11T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.09,
+        "noaa": 9.12,
+        "sg": 15.09
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 4.83,
+        "noaa": 3.95,
+        "sg": 4.83
+      },
+      "time": "2023-09-11T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.09,
+        "noaa": 8.83,
+        "sg": 15.09
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 5.16,
+        "noaa": 3.97,
+        "sg": 5.16
+      },
+      "time": "2023-09-11T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.08,
+        "noaa": 8.55,
+        "sg": 15.08
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 5.2,
+        "noaa": 4.05,
+        "sg": 5.2
+      },
+      "time": "2023-09-11T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.08,
+        "noaa": 8.94,
+        "sg": 15.08
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 5.23,
+        "noaa": 4.14,
+        "sg": 5.23
+      },
+      "time": "2023-09-11T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.08,
+        "noaa": 9.32,
+        "sg": 15.08
+      }
+    },
+    {
+      "swellHeight": {
+        "icon": 5.27,
+        "noaa": 4.22,
+        "sg": 5.27
+      },
+      "time": "2023-09-11T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.08,
+        "noaa": 9.71,
+        "sg": 15.08
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.07,
+        "sg": 4.07
+      },
+      "time": "2023-09-11T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.09,
+        "noaa": 11.54,
+        "sg": 15.09
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.91,
+        "sg": 3.91
+      },
+      "time": "2023-09-11T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.1,
+        "noaa": 13.38,
+        "sg": 15.1
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.76,
+        "sg": 3.76
+      },
+      "time": "2023-09-11T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 15.21,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.76,
+        "sg": 3.76
+      },
+      "time": "2023-09-11T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 15.78,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.76,
+        "sg": 3.76
+      },
+      "time": "2023-09-11T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.12,
+        "noaa": 16.35,
+        "sg": 15.12
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.76,
+        "sg": 3.76
+      },
+      "time": "2023-09-11T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.12,
+        "noaa": 16.92,
+        "sg": 15.12
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.83,
+        "sg": 3.83
+      },
+      "time": "2023-09-11T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.12,
+        "noaa": 15.33,
+        "sg": 15.12
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.91,
+        "sg": 3.91
+      },
+      "time": "2023-09-11T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 13.74,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.98,
+        "sg": 3.98
+      },
+      "time": "2023-09-11T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 12.15,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.08,
+        "sg": 4.08
+      },
+      "time": "2023-09-11T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.11,
+        "noaa": 11.49,
+        "sg": 15.11
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.17,
+        "sg": 4.17
+      },
+      "time": "2023-09-11T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.1,
+        "noaa": 10.84,
+        "sg": 15.1
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.27,
+        "sg": 4.27
+      },
+      "time": "2023-09-11T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.09,
+        "noaa": 10.18,
+        "sg": 15.09
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.27,
+        "sg": 4.27
+      },
+      "time": "2023-09-11T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.06,
+        "noaa": 10.24,
+        "sg": 15.06
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.26,
+        "sg": 4.26
+      },
+      "time": "2023-09-11T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 10.3,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.26,
+        "sg": 4.26
+      },
+      "time": "2023-09-11T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.03,
+        "noaa": 10.36,
+        "sg": 15.03
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.19,
+        "sg": 4.19
+      },
+      "time": "2023-09-11T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.02,
+        "noaa": 9.87,
+        "sg": 15.02
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.11,
+        "sg": 4.11
+      },
+      "time": "2023-09-11T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.02,
+        "noaa": 9.39,
+        "sg": 15.02
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 4.04,
+        "sg": 4.04
+      },
+      "time": "2023-09-12T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.01,
+        "noaa": 8.9,
+        "sg": 15.01
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.96,
+        "sg": 3.96
+      },
+      "time": "2023-09-12T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15,
+        "noaa": 8.79,
+        "sg": 15
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.88,
+        "sg": 3.88
+      },
+      "time": "2023-09-12T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.99,
+        "noaa": 8.68,
+        "sg": 14.99
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.8,
+        "sg": 3.8
+      },
+      "time": "2023-09-12T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.97,
+        "noaa": 8.57,
+        "sg": 14.97
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.42,
+        "sg": 3.42
+      },
+      "time": "2023-09-12T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.95,
+        "noaa": 9.06,
+        "sg": 14.95
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.05,
+        "sg": 3.05
+      },
+      "time": "2023-09-12T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.94,
+        "noaa": 9.54,
+        "sg": 14.94
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.67,
+        "sg": 2.67
+      },
+      "time": "2023-09-12T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.96,
+        "noaa": 10.03,
+        "sg": 14.96
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.85,
+        "sg": 2.85
+      },
+      "time": "2023-09-12T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.99,
+        "noaa": 12.57,
+        "sg": 14.99
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.03,
+        "sg": 3.03
+      },
+      "time": "2023-09-12T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.01,
+        "noaa": 15.12,
+        "sg": 15.01
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.21,
+        "sg": 3.21
+      },
+      "time": "2023-09-12T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.03,
+        "noaa": 17.67,
+        "sg": 15.03
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.12,
+        "sg": 3.12
+      },
+      "time": "2023-09-12T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 18.76,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.04,
+        "sg": 3.04
+      },
+      "time": "2023-09-12T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.06,
+        "noaa": 19.86,
+        "sg": 15.06
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.95,
+        "sg": 2.95
+      },
+      "time": "2023-09-12T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.06,
+        "noaa": 20.95,
+        "sg": 15.06
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.89,
+        "sg": 2.89
+      },
+      "time": "2023-09-12T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.06,
+        "noaa": 19.5,
+        "sg": 15.06
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.82,
+        "sg": 2.82
+      },
+      "time": "2023-09-12T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.05,
+        "noaa": 18.04,
+        "sg": 15.05
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.76,
+        "sg": 2.76
+      },
+      "time": "2023-09-12T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 16.59,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.69,
+        "sg": 2.69
+      },
+      "time": "2023-09-12T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.04,
+        "noaa": 15.28,
+        "sg": 15.04
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.63,
+        "sg": 2.63
+      },
+      "time": "2023-09-12T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.03,
+        "noaa": 13.96,
+        "sg": 15.03
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.56,
+        "sg": 2.56
+      },
+      "time": "2023-09-12T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 15.01,
+        "noaa": 12.65,
+        "sg": 15.01
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.48,
+        "sg": 2.48
+      },
+      "time": "2023-09-12T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.99,
+        "noaa": 12.1,
+        "sg": 14.99
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.4,
+        "sg": 2.4
+      },
+      "time": "2023-09-12T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.96,
+        "noaa": 11.56,
+        "sg": 14.96
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.32,
+        "sg": 2.32
+      },
+      "time": "2023-09-12T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.95,
+        "noaa": 11.01,
+        "sg": 14.95
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.25,
+        "sg": 2.25
+      },
+      "time": "2023-09-12T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.93,
+        "noaa": 10.59,
+        "sg": 14.93
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.17,
+        "sg": 2.17
+      },
+      "time": "2023-09-12T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.91,
+        "noaa": 10.17,
+        "sg": 14.91
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.1,
+        "sg": 2.1
+      },
+      "time": "2023-09-13T00:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.9,
+        "noaa": 9.75,
+        "sg": 14.9
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.04,
+        "sg": 2.04
+      },
+      "time": "2023-09-13T01:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.9,
+        "noaa": 9.5,
+        "sg": 14.9
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.98,
+        "sg": 1.98
+      },
+      "time": "2023-09-13T02:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 9.25,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.92,
+        "sg": 1.92
+      },
+      "time": "2023-09-13T03:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 9,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.87,
+        "sg": 1.87
+      },
+      "time": "2023-09-13T04:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.89,
+        "noaa": 9.67,
+        "sg": 14.89
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.81,
+        "sg": 1.81
+      },
+      "time": "2023-09-13T05:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 10.33,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.76,
+        "sg": 1.76
+      },
+      "time": "2023-09-13T06:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 10.99,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.71,
+        "sg": 1.71
+      },
+      "time": "2023-09-13T07:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 13.63,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.66,
+        "sg": 1.66
+      },
+      "time": "2023-09-13T08:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 16.28,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.61,
+        "sg": 1.61
+      },
+      "time": "2023-09-13T09:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 18.93,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.58,
+        "sg": 1.58
+      },
+      "time": "2023-09-13T10:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 19.57,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.56,
+        "sg": 1.56
+      },
+      "time": "2023-09-13T11:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 20.21,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.53,
+        "sg": 1.53
+      },
+      "time": "2023-09-13T12:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 20.85,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.5,
+        "sg": 1.5
+      },
+      "time": "2023-09-13T13:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 19.44,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.46,
+        "sg": 1.46
+      },
+      "time": "2023-09-13T14:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 18.03,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.43,
+        "sg": 1.43
+      },
+      "time": "2023-09-13T15:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 16.61,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.65,
+        "sg": 1.65
+      },
+      "time": "2023-09-13T16:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 15.42,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 1.86,
+        "sg": 1.86
+      },
+      "time": "2023-09-13T17:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 14.23,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.08,
+        "sg": 2.08
+      },
+      "time": "2023-09-13T18:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 13.04,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.59,
+        "sg": 2.59
+      },
+      "time": "2023-09-13T19:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 12.33,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.09,
+        "sg": 3.09
+      },
+      "time": "2023-09-13T20:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 11.62,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.6,
+        "sg": 3.6
+      },
+      "time": "2023-09-13T21:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 10.91,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.24,
+        "sg": 3.24
+      },
+      "time": "2023-09-13T22:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 10.82,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.89,
+        "sg": 2.89
+      },
+      "time": "2023-09-13T23:00:00+00:00",
+      "waterTemperature": {
+        "meto": 14.88,
+        "noaa": 10.74,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.53,
+        "sg": 2.53
+      },
+      "time": "2023-09-14T00:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 10.65,
+        "sg": 10.65
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.77,
+        "sg": 2.77
+      },
+      "time": "2023-09-14T01:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 12.06,
+        "sg": 12.06
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3,
+        "sg": 3
+      },
+      "time": "2023-09-14T02:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 13.47,
+        "sg": 13.47
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.24,
+        "sg": 3.24
+      },
+      "time": "2023-09-14T03:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 14.88,
+        "sg": 14.88
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 3.01,
+        "sg": 3.01
+      },
+      "time": "2023-09-14T04:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 16.29,
+        "sg": 16.29
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.79,
+        "sg": 2.79
+      },
+      "time": "2023-09-14T05:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 17.7,
+        "sg": 17.7
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.56,
+        "sg": 2.56
+      },
+      "time": "2023-09-14T06:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 19.11,
+        "sg": 19.11
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.67,
+        "sg": 2.67
+      },
+      "time": "2023-09-14T07:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 20.52,
+        "sg": 20.52
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.78,
+        "sg": 2.78
+      },
+      "time": "2023-09-14T08:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 21.93,
+        "sg": 21.93
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.89,
+        "sg": 2.89
+      },
+      "time": "2023-09-14T09:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 23.34,
+        "sg": 23.34
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.72,
+        "sg": 2.72
+      },
+      "time": "2023-09-14T10:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 24.75,
+        "sg": 24.75
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.54,
+        "sg": 2.54
+      },
+      "time": "2023-09-14T11:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 26.16,
+        "sg": 26.16
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.37,
+        "sg": 2.37
+      },
+      "time": "2023-09-14T12:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 27.57,
+        "sg": 27.57
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.34,
+        "sg": 2.34
+      },
+      "time": "2023-09-14T13:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 26.34,
+        "sg": 26.34
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.31,
+        "sg": 2.31
+      },
+      "time": "2023-09-14T14:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 25.1,
+        "sg": 25.1
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.28,
+        "sg": 2.28
+      },
+      "time": "2023-09-14T15:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 23.87,
+        "sg": 23.87
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.32,
+        "sg": 2.32
+      },
+      "time": "2023-09-14T16:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 22.63,
+        "sg": 22.63
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.35,
+        "sg": 2.35
+      },
+      "time": "2023-09-14T17:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 21.4,
+        "sg": 21.4
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.39,
+        "sg": 2.39
+      },
+      "time": "2023-09-14T18:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 20.16,
+        "sg": 20.16
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.37,
+        "sg": 2.37
+      },
+      "time": "2023-09-14T19:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 18.93,
+        "sg": 18.93
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.36,
+        "sg": 2.36
+      },
+      "time": "2023-09-14T20:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 17.69,
+        "sg": 17.69
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.34,
+        "sg": 2.34
+      },
+      "time": "2023-09-14T21:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 16.46,
+        "sg": 16.46
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.27,
+        "sg": 2.27
+      },
+      "time": "2023-09-14T22:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 15.22,
+        "sg": 15.22
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.19,
+        "sg": 2.19
+      },
+      "time": "2023-09-14T23:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 13.99,
+        "sg": 13.99
+      }
+    },
+    {
+      "swellHeight": {
+        "noaa": 2.12,
+        "sg": 2.12
+      },
+      "time": "2023-09-15T00:00:00+00:00",
+      "waterTemperature": {
+        "noaa": 12.75,
+        "sg": 12.75
+      }
+    }
+  ],
+  "meta": {
+    "cost": 1,
+    "dailyQuota": 10,
+    "end": "2023-09-15 00:00",
+    "lat": -34.2306,
+    "lng": 18.4754,
+    "params": [
+      "swellHeight",
+      "waterTemperature"
+    ],
+    "requestCount": 1,
+    "start": "2023-09-05 00:00"
+  }
+}
